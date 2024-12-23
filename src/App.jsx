@@ -2,7 +2,7 @@ import "./App.css";
 import "./Components/Css/Style.css";
 import Footer from "./Components/Footer/Footer";
 import Jobringer from "./Components/Main/Jobringer";
-import NavBar from "./Components/NavBar/Navbar";
+import NavBar from "./Components/NavBar/NavBar";
 
 function App() {
   return (
